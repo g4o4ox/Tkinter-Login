@@ -15,11 +15,17 @@ Sistema de login simples com python e sqlite, usado para aprendizado inicial e p
 <br>
 #Atenção a biblioteca Tkinter pode não esta instala corretamente em alguns sistemas Linux como Ubuntu/Debian.
 <p>caso este seja seu problema aqui vai uma solução</p>
+
 <br>
+
 ##Ubuntu: sudo apt-get install python-tk
+
 ##Arch: sudo pacman -S tk
+
 ##Fedora: sudo dnf install python3-tkinter
+
 ##RHEL, CentOS, Oracle Linux: sudo yum install -y tkinter tk-devel
+
 <br>
 <p>Caso nenhuma das opções funcione, Consulte a documentação do seu Kernel ou sistema</p>
 <p>Quer me incentivar? então pague um cafezinho :3, sua contribuição com qualquer valor sera aceito</p>
