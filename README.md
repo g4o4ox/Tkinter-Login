@@ -6,6 +6,7 @@ Sistema de login simples com python e sqlite, usado para aprendizado inicial e p
 <p>o codigo estara livre para fins educacionais ou pessoais</p>
 <h2>Instalação...</h2>
 <br>
+<p
 **Linux**
 *A instalação e simples basta digitar os seguintes comandos*
 
