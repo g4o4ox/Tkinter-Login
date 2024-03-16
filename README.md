@@ -9,9 +9,9 @@ Sistema de login simples com python e sqlite, usado para aprendizado inicial e p
 
 <h4>Linux/Windows</h4>
 <p>A instalação e simples basta digitar os seguintes comandos</p>
-##git clone https://github.com/g4o4ox/Tkinter-Login
-##pip3 install -r requirements.txt
-##python3 main.py
+<b>git clone https://github.com/g4o4ox/Tkinter-Login</b>
+<b>pip3 install -r requirements.txt</b>
+<b>python3 main.py</b>
 <br>
 #Atenção a biblioteca Tkinter pode não esta instala corretamente em alguns sistemas Linux como Ubuntu/Debian.
 <p>caso este seja seu problema aqui vai uma solução</p>
